@@ -1,7 +1,5 @@
 # Age Calculator
 
-![Screenshot 2024-07-28 204115](https://github.com/user-attachments/assets/c2bf9f6d-32cd-4ce9-9785-75477146cf1c)
-
 ## Overview
 
 The Age Calculator is a simple web application built with HTML, CSS, and JavaScript. It allows users to input their date of birth and calculates their age in years, months, and days.
